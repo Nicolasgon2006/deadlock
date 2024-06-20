@@ -1,4 +1,4 @@
-# Instrucciones completamente detalladas sobre cómo obtener acceso a Deadlock para que puedas jugar en modo de un solo jugador o multijugador p2p.
+# Instrucciones completamente detalladas sobre cómo obtener acceso a Deadlock.
 
 ## Descarga el juego con la corrección de LAN incluida:
 - https://drive.google.com/file/d/1pVko1sELhJja61cw9by3PifF8HI_LjQJ/view 
